@@ -1,0 +1,19 @@
+"x"
+"BLCA" 3
+"BRCA" 9
+"COAD" 6
+"ESCA" 8
+"KICH" 8
+"KIRC" 9
+"KIRP" 9
+"LIHC" 9
+"LUAD" 6
+"LUSC" 9
+"PAAD" 5
+"PRAD" 8
+"READ" 4
+"SKCM" 9
+"STAD" 8
+"THCA" 9
+"THYM" 5
+"UCEC" 9
